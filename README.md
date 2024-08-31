@@ -6,9 +6,6 @@
 * Высокая скорость поиска
 * Низкая цена
   
-
-  ![Логотип NeuroStartUp](https://raw.githubusercontent.com/netology-code/git-homeworks/main/1_self/logo.png)
-
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 1. ООО «Рога и копыта»
